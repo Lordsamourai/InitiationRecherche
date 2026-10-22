@@ -1,0 +1,13 @@
+{
+  "checkpoints": {
+    "mode": "engine_dependencies"
+  },
+  "color": "#1982c4",
+  "engine": "xetex",
+  "exports": [],
+  "forked_from": null,
+  "hidden": false,
+  "kind": "",
+  "main_doc": "main.tex",
+  "name": "InitiationRecherche"
+}
