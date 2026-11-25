@@ -1,0 +1,8 @@
+services:
+  gender-api:
+    build: .
+    ports:
+      - "4567:4567"
+    volumes:
+      - .:/app
+    command: ruby app.rb
